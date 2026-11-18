@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>jp.co.rakuten-sec.iSPEED.Pushnotification.widgetapp.widgetkitextension</string>
+                <string>com.shabakaty.cinemanaa</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
